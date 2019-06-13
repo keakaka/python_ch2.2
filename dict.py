@@ -123,5 +123,3 @@ print(phone)
 # 모두 삭제하기
 phone.clear()
 print(phone)
-
-
